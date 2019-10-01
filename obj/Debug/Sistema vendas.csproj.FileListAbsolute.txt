@@ -1,0 +1,11 @@
+E:\projetos visual studio\projeto vendas\Sistema vendas\bin\Debug\Sistema vendas.exe.config
+E:\projetos visual studio\projeto vendas\Sistema vendas\bin\Debug\Sistema vendas.exe
+E:\projetos visual studio\projeto vendas\Sistema vendas\bin\Debug\Sistema vendas.pdb
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema vendas.csprojAssemblyReference.cache
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema_vendas.frm_menu.resources
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema_vendas.Properties.Resources.resources
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema vendas.csproj.GenerateResource.cache
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema vendas.exe
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema vendas.pdb
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema_vendas.frm_categorias.resources
+E:\projetos visual studio\projeto vendas\Sistema vendas\obj\Debug\Sistema_vendas.frm_produtos.resources
